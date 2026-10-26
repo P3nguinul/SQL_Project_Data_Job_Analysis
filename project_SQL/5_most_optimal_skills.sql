@@ -1,5 +1,5 @@
 /*
-Question: What are the most optimal skills to learn to become a data analyst.
+Question 5: What are the most optimal skills to learn to become a data analyst.
 - Very similar to question 4, the only difference will be that we care more about the demand count than the highest average salary (that does not mean that the salary doesn't count :) )
 */
 

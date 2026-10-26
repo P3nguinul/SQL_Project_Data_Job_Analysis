@@ -1,5 +1,5 @@
 /*
-Question: What are the top skills based on salary?
+Question 4: What are the top skills based on salary?
 - Look at the average salary associated with each skill for Data Analyst positions
 - Focuses on roles with  specified salaries, regardless of location
  ! (I've added a condition so that the skills should be present in posts more than 20 times, so that some outliers with a very nieche skills don't stand at the top. I think that way the list is more accurate.)
